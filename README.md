@@ -1,7 +1,3 @@
-# simulador-credito-automotriz
-Motor de simulación en Python para la generación de datasets sintéticos de origen de crédito automotriz, basado en arquetipos de cliente y reglas de negocio reales.
-
-
 # 🚀 Simulador Avanzado de Datos Financieros para Crédito Automotriz
 
 Este proyecto es una solución de alta fidelidad para uno de los desafíos más críticos en Data Science: la ausencia de datos realistas para el entrenamiento de modelos. En lugar de depender de datasets limitados, hemos construido una "fábrica" de datos sintéticos que genera un portafolio de créditos automotrices, no basado en simple aleatoriedad, sino en un ecosistema de reglas de negocio, políticas de riesgo y arquetipos de cliente interconectados.
